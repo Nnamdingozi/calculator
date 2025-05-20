@@ -6,12 +6,12 @@
 main {
     border: 2px solid black;
     height: 80vh;
-    width: 26vw;
+    // width: 26vw;
     border-radius: 25PX;
     background-color: rgb(250, 109, 132);
     justify-content: center;
     margin-top: 10vh;
-    margin-left: 5vw;
+    margin: auto;
     box-shadow: blue;
 
 
@@ -35,9 +35,9 @@ main {
 
     .button-keys {
         width: 90%;
-        height: 80%;
+        height: auto;
         margin-top: 30px;
-        justify-content:space space-between;
+        justify-content: space-between;
         margin-left: 20px;
 
 
