@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass": "^1.89.0"
+  },
+  "scripts": {
+    "sass:watch": "sass --watch domcal.scss domcal.css"
+  }
+}
+
+
